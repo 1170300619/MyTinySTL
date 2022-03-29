@@ -273,12 +273,4 @@ namespace mystl
 
 }
 
-
-
-
-
-
-
-
-
 #endif // !MYTINYSTL_ITERATOR_H_
